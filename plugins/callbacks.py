@@ -52,7 +52,7 @@ async def cb_handler(client, query):
                 ],
                 [
                     InlineKeyboardButton("FACEBOOK", url="https://Facebook.com"),
-                    InlineKeyboardButton("YOUTUBR", url="https://Youtube.com")
+                    InlineKeyboardButton("YOUTUER", url="https://Youtube.com")
                 ]
             ]
         )
@@ -70,7 +70,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "INSTAGRAM", url="https://Instagram.con")
+                        "INSTAGRAM", url="https://Instagram.com")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
