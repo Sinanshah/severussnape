@@ -52,7 +52,7 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : SEVERUS SNAPE Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : SEVERUS SNAPE</b>
 
 ⭕️<b>Creater :</b> SADIE SINK    
 
