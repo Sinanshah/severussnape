@@ -57,6 +57,6 @@ See <i>/help</i> for commands and more details.</b>
 ⭕️<b>Creater :</b> SADIE SINK    
 
 ⭕️<b>Language :</b> <code>Python3</code>
-<b>MAGIC :</b><ahttps://t.me/AdhavaaBiriyaniKittiyalo/3</a> 
+<b>
 
 """
